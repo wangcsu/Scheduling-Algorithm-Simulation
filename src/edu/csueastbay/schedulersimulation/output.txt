@@ -1,0 +1,31 @@
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+ A B D B B C C H H G  G  G  F  F  F  F  F  F  F  E  E  E  E  E  E  E  E  E  E  E  E
+1 A PROCESS TERMINATED
+2 B Process preempted by process with shorter burst time
+3 D PROCESS TERMINATED
+5 B PROCESS TERMINATED
+7 C PROCESS TERMINATED
+9 H PROCESS TERMINATED
+12 G PROCESS TERMINATED
+19 F PROCESS TERMINATED
+31 E PROCESS TERMINATED
+Turnaround time:
+A: 1
+B: 5
+C: 5
+D: 1
+E: 28
+F: 15
+G: 7
+H: 4
+Average turnaround time: 8.25
+Waiting time:
+A: 0
+B: 2
+C: 3
+D: 0
+E: 16
+F: 8
+G: 4
+H: 2
+Average waiting time: 4.375
